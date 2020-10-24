@@ -1,0 +1,51 @@
+﻿@page
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<!doctype html>
+ <html lang="en">
+ <head>
+   <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Canvas</title>
+     <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+     <link rel="stylesheet" href="css/site.css" />
+     <script src="lib/signalr/dist/browser/signalr.js"></script>
+     <script src="https://code.jquery.com/jquery.js"></script>
+     <!-- <script src="js/canvas.js"></script> -->
+     <script src = "js/requests.js"></script>
+     <script src = "js/addList.js"></script>
+ </head>
+ <!-- dotnet run -p WebApp1.csproj -->
+ @if (SignInManager.IsSignedIn(User))
+    {
+        
+ <body>
+     <h1><strong>Create a new canvas or open an old one!</strong></h1>
+     <br>
+     <h2>Create a new Canvas</h2>
+     <br>
+     <form>
+       <h3>Enter an existing canvas title or create a new one:</h3>
+       <input type="text" id = "textFieldCreate"/>
+       <input type="button" value="Submit" onclick = "submitCreate()"/> <!--window.location.href='/canvas.html';-->
+     </form>
+     <br>
+     <h2>Canvases that already exist</h2>
+     <div id = "alreadyExist">        
+        <!-- <ul> -->          
+          <!-- <li></li> -->        
+          <!-- </ul> -->      
+      </div>
+     <!-- <script src="Pages/index.js"></script> -->
+ </body>
+
+    }
+    else
+    {
+        <body>
+            <p>Hello! Please login or create an account to get drawing!</p>
+        </body>
+    }
+ </html>

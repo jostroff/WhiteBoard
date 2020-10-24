@@ -1,0 +1,55 @@
+ <!doctype html>
+ <html lang="en">
+ <head>
+   <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Canvas</title>
+     <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+     <link rel="stylesheet" href="css/site.css" />
+     <script src="lib/signalr/dist/browser/signalr.js"></script>
+     <script src="https://code.jquery.com/jquery.js"></script>
+     <script src = "js/requests.js"></script> 
+     <script src="js/canvas.js"></script>
+ </head>
+ <!-- dotnet run -p WebApp1.csproj -->
+ <header>
+  <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="container">
+        <a class="navbar-brand" href= "/Index" asp-area="" asp-page="/Index">Whiteboard</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+            <partial name="_LoginPartial" />
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item">
+                    <a class="nav-link text-dark" href= "/Index" asp-area="" asp-page="/Index">Click here to return to the Home page</a>
+                </li>
+          </li>
+            </ul>
+            
+        </div>
+        
+    </div>
+</nav>
+ </header>
+ <body>
+     <h1>Lets Just Draw</h1>
+     <button id = "clear" type="button">Clear Canvas</button>
+      <!-- onclick="clearCanvas()" -->
+      <!-- onclick="(new window.onload()).clearCanvas()" -->
+     <select id = "color">
+        <!-- onchange="changeColor()" -->
+        <!-- onchange="(new window.onload()).changeColor()" -->
+         <option value="colorRed">Red</option>
+         <option value="colorGreen">Green</option>
+         <option value="colorYellow">Yellow</option>
+         <option value="colorBlue">Blue</option>
+       </select>
+      <button id = "save" type="button">Save Drawing</button>
+       
+       <div id="canvasDiv"></div>
+ </body>
+ 

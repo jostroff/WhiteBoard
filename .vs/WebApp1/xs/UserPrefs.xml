@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{49E2A28E-4660-498C-88DB-B111318A178F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/CanvasController.cs">
+    <Files>
+      <File FileName="Models/Canvas.cs" Line="56" Column="1" />
+      <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.cs" />
+      <File FileName="Hubs/CanvasHub.cs" />
+      <File FileName="wwwroot/js/requests.js" />
+      <File FileName="wwwroot/js/site.js" />
+      <File FileName="wwwroot/js/addList.js" />
+      <File FileName="wwwroot/js/canvas.js" Line="12" Column="21" />
+      <File FileName="wwwroot/canvas.html" />
+      <File FileName="wwwroot/styles.css" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Canvas.db" />
+      <File FileName="libman.json" />
+      <File FileName="Program.cs" />
+      <File FileName="ScaffoldingReadme.txt" />
+      <File FileName="Startup.cs" />
+      <File FileName="Controllers/CanvasController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp1" expanded="True">
+            <Node name="WebApp1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CanvasController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApp1 PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

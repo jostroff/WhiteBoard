@@ -1,0 +1,289 @@
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/bin/Debug/netcoreapp2.2/app.db
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.dll
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.dll
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.dll
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.pdb
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/bin/Debug/netcoreapp2.2/app.db
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.dll
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.pdb
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginPartial.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/Users/joshuaostroff314/Documents/School/Senior Spring/csc-210-final-project-group8-master/WebApp1/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/bin/Debug/netcoreapp2.2/app.db
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.dll
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.pdb
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginPartial.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.dll
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.pdb
+/Users/MattResnikoff/Downloads/csc-210-final-project-group8-master 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/bin/Debug/netcoreapp2.2/app.db
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.dll
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.dll
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WebApp1 2/WebApp1 2/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
+D:/Git/csc-210-final-project-group8/WebApp1 3/obj/Debug/netcoreapp2.2/WebApp1.dll
+D:/Git/csc-210-final-project-group8/WebApp1 3/obj/Debug/netcoreapp2.2/WebApp1.pdb
+D:/Git/csc-210-final-project-group8/WebApp3/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+D:/Git/csc-210-final-project-group8/WebApp3/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+D:/Git/csc-210-final-project-group8/WebApp3/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+D:/Git/csc-210-final-project-group8/WebApp3/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+D:/Git/csc-210-final-project-group8/WebApp3/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+D:/Git/csc-210-final-project-group8/WebApp3/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+D:/Git/csc-210-final-project-group8/WebApp3/obj/Debug/netcoreapp2.2/WebApp1.dll
+D:/Git/csc-210-final-project-group8/WebApp3/obj/Debug/netcoreapp2.2/WebApp1.pdb
+D:/Git/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+D:/Git/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+D:/Git/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+D:/Git/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+D:/Git/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+D:/Git/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+D:/Git/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.dll
+D:/Git/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.pdb
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.dll
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.pdb
+C:/csc210/WhiteBoard/bin/Debug/netcoreapp2.2/app.db
+C:/csc210/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+C:/csc210/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+C:/csc210/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+C:/csc210/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.dll
+C:/csc210/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.pdb
+C:/csc210/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+C:/csc210/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginPartial.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/csc210/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/app.db
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.dll
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.pdb
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.dll
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.pdb
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/app.db
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.deps.json
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.json
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.runtimeconfig.dev.json
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.dll
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.Views.dll
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csprojAssemblyReference.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csproj.CoreCompileInputs.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorAssemblyInfo.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfoInputs.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.AssemblyInfo.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.input.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.TagHelpers.output.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorCoreGenerate.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cache
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.RazorTargetAssemblyInfo.cs
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.Views.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.dll
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.pdb
+C:/Users/Jayda/vscode-workspace/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.csproj.CopyComplete
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/libman.json
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Error.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Index.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginPartial.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/Debug/netcoreapp2.2/WebApp1.genruntimeconfig.cache

@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/WebApp1.csproj": {}
+  },
+  "projects": {
+    "/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/WebApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/WebApp1.csproj",
+        "projectName": "WebApp1",
+        "projectPath": "/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/WebApp1.csproj",
+        "packagesPath": "/Users/joshuaostroff314/.nuget/packages/",
+        "outputPath": "/Users/joshuaostroff314/Documents/GitHub/csc-210-final-project-group8/WhiteBoard/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/joshuaostroff314/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
